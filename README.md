@@ -21,7 +21,7 @@
 - ✉️ Email: daf1@dafchain.com
 - 🐦 Twitter: [@daf1chain](https://x.com/daf1chain)
 - 📢 Telegram Channel: [DAFChoin](https://t.me/DAFChoin)
-- 📬 Telegram Contact: [@Token_Officer](https://t.me/DAF_Choin)
+- 📬 Telegram Contact: [https://t.me/Token_Officer](https://t.me/DAF_Choin)
 - 💬 Community Discussions: [DAF1Choin Group](https://t.me/DAF1Choin)
 // [Add contract code or link to Token.sol here]
 https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012
