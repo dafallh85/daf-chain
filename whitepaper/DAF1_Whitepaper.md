@@ -47,7 +47,7 @@ DAF1 will evolve into a larger ecosystem that includes:
 ## 📆 Roadmap
 
 ### Phase 1: Launch & Awareness
-- Website launch: [https://dafchain.com](https://dafchain.com)
+- Website launch: [https://dafchain.store](https://dafchain.store)
 - Token deployment and verification
 - Whitepaper and roadmap release
 - Social media setup (X, Telegram)
@@ -73,8 +73,8 @@ The contract is deployed using Solidity 0.8.2 with standard BEP-20 features. Fut
 
 ## 📞 Contact
 
-- 🌐 Website: [dafchain.com](https://dafchain.com)  
-- ✉️ Email: daf1@dafchain.com  
+- 🌐 Website: [dafchain.store](https://dafchain.store)  
+- ✉️ Email: daf1@dafchain.store  
 - 🐦 X: [@daf1chain](https://x.com/daf1chain)  
 - 💬 Telegram Community: [@DAF1Choin](https://t.me/DAF1Choin)  
 - 📢 Official Channel: [@DAFChoin](https://t.me/DAFChoin)  
