@@ -17,8 +17,8 @@
 
 ## 🌐 Official Links
 
-- 🌍 Website: [https://dafchain.com](https://dafchain.com)
-- ✉️ Email: daf1@dafchain.com
+- 🌍 Website: [https://dafchain.store](https://dafchain.store)
+- ✉️ Email: daf1@dafchain.store
 - 🐦 Twitter: [@daf1chain](https://x.com/daf1chain)
 - 📢 Telegram Channel: [DAFChoin](https://t.me/DAFChoin)
 - 📬 Telegram Contact: [https://t.me/Token_Officer](https://t.me/DAF_Choin)
