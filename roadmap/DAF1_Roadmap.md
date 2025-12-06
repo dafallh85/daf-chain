@@ -1,7 +1,7 @@
 # 🗺️ DAF1 Roadmap
 
 ## ✅ Phase 1: Foundation (Q1–Q2 2025)
-- ✅ Launch of the official website: [dafchain.com](https://dafchain.com)
+- ✅ Launch of the official website: [dafchain.store](https://dafchain.store)
 - ✅ Smart contract deployed on BNB Chain
 - ✅ Verified contract on BscScan
 - ✅ GitHub repository setup with code and logo
