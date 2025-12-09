@@ -1,50 +1,101 @@
-# 🗺️ DAF1 Roadmap
+# DAFCHAIN (DAF1) – Official Roadmap
+# Period: 2026–2030
 
-## ✅ Phase 1: Foundation (Q1–Q2 2025)
-- ✅ Launch of the official website: [dafchain.store](https://dafchain.store)
-- ✅ Smart contract deployed on BNB Chain
-- ✅ Verified contract on BscScan
-- ✅ GitHub repository setup with code and logo
-- ✅ Communication channels established:
-  - [Twitter (X)](https://x.com/daf1chain)
-  - [Telegram Channel](https://t.me/DAFChoin)
-  - [Telegram Community](https://t.me/DAF1Choin)
-  - [Support Group](https://t.me/DAF_Choin)
-- ✅ Whitepaper and roadmap published
+## 2026
+### Q1
+- Launch website: dafchain.store
+- Activate official channels (X, Telegram, GitHub)
+- Verify token on BscScan, brand identity
+- Initial marketing campaign: first 5,000 users
+- Establish brand identity
 
----
+### Q2
+- Beta release of wallet/platform
+- First DEX listing
+- Launch Ambassadors program
+- Start international marketing campaigns
 
-## 🚀 Phase 2: Launch & Community (Q3 2025)
-- 🟩 Initial DEX Offering (IDO)
-- 🟩 Listing on PancakeSwap
-- 🟩 Listings on CoinMarketCap and CoinGecko
-- 🟩 Marketing and user acquisition campaigns
-- 🟩 Strategic partnerships with Web3 and DeFi projects
+### Q3
+- Launch Staking / Rewards system
+- Expand community to 20,000 members
+- First CEX listing
 
----
+### Q4
+- Full platform 1.0 release
+- Expand Web3 & DeFi partnerships
+- Year-end report
 
-## 🏗️ Phase 3: Ecosystem Development (Q4 2025)
-- 🔄 Launch of **DAF1 Wallet** (mobile/web)
-- 🔄 Development of **DAF1 Bridge** (cross-chain support)
-- 🔄 DAO governance system (DAF1 DAO)
-- 🔄 Rollout of **DAF1 Pay** digital payment solutions
+## 2027
+### Q1
+- Platform 2.0 development
+- Community growth to 50,000
+- Add digital payment services
 
----
+### Q2
+- International expansion (Asia, Europe, America)
+- Additional CEX listings
+- Increase liquidity and trading volume
 
-## 🌐 Phase 4: Expansion & Utility (Q1–Q2 2026)
-- 🔜 Integration with blockchain games and dApps
-- 🔜 Staking and yield farming features
-- 🔜 Launch of **DAF1 Analytics** platform
-- 🔜 Partnerships with NFT and Metaverse platforms
+### Q3
+- Internal Marketplace launch
+- Global financial partnerships
+- Full security audit
 
----
+### Q4
+- Smart payment integration
+- Community reaches 100,000
+- Year-end report
 
-## 🧠 Phase 5: Governance & Innovation (2026+)
-- 📜 Community-led governance via DAO voting
-- ⚙️ Continuous security and smart contract audits
-- 🌍 Global adoption and regional expansion
-- 🤝 Launch of the DAF1 Innovation Fund for new builders
+## 2028
+### Q1
+- UX/UI update
+- New smart payment features
+- Enterprise adoption campaigns
 
----
+### Q2
+- Additional CEX listings
+- Expanded DeFi & Web3 partnerships
+- Expand technical team
 
-> 🧾 *This roadmap may evolve based on community feedback, market dynamics, and ecosystem opportunities.*
+### Q3
+- Investor support tools and dashboards
+- Build Ecosystem 3.0
+
+### Q4
+- Community reaches 250,000
+- Year-end report & roadmap update
+
+## 2029
+### Q1
+- Platform 4.0 release
+- Enterprise adoption
+
+### Q2
+- Burn mechanism implementation
+- Further global expansion
+
+### Q3
+- Optional internal Layer/Chain development
+- Community reaches 500,000
+
+### Q4
+- Top 10 CEX listings
+- Annual conference launch
+
+## 2030
+### Q1
+- Super App / DAFCHAIN 1.0
+- International enterprise adoption
+
+### Q2
+- Global ecosystem expansion
+- Reach 1,000,000 users
+
+### Q3
+- Launch new economic & tech services
+- Expand global partnerships
+
+### Q4
+- End of year report 2030
+- Vision 2031–2035
+- Establish DAF1 as a global leading digital currency
