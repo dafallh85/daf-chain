@@ -19,25 +19,13 @@
 
 - 🌍 Website: [https://dafchain.store](https://dafchain.store)
 - ✉️ Email: daf1@dafchain.store
-- 🐦 Twitter: [@daf1chain](https://x.com/daf1chain)
-- 📢 Telegram Channel: [DAFChoin](https://t.me/DAFChoin)
-- 📬 Telegram Contact: [https://t.me/Token_Officer](https://t.me/DAF_Choin)
+- 🐦 Twitter: https://x.com/daf1chain
+- 📢 Telegram Channel:  https://t.me/DAFChoin
+- 📬 Telegram Contact: https://t.me/Token_Officer
 - 💬 Community Discussions: [DAF1Choin Group](https://t.me/DAF1Choin)
 // [Add contract code or link to Token.sol here]
 https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012
 he ---
----Website : https://dafchain.store
-
-✉️ Email : daf1@dafchain.store
-
-🐦 Twitter:  https://x.com/daf1chain
-
-📢Telegram channel: https://t.me/DAFChoin
-
-📬Contact us via Telegram: https://t.me/Token_Officer
-
- 💬 Community Discussions: Grouphttps://t.me/DAF1Choin
-
 https://github.com/dafallh85/daf-chain
 
 ## ⚙️ Smart Contract
