@@ -1,6 +1,6 @@
 # Contributing to DAF1
 
-We welcome contributions to the DAF1 project! Thank you for your interest.
+ DAF1 project! Thank you for your interest.
 
 ## How to Contribute
 1. Fork this repository.
