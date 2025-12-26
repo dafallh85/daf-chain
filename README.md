@@ -10,23 +10,10 @@
 - **Symbol:** DAF1
 - **Decimals:** 18
 - **Total Supply:** 100,000,000,000,000 (100 Trillion)
-- **Contract Address:** [`0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012`](https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012)
+- **Contract Address:** [`0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012`]
 - **Blockchain:** BNB Chain (BEP-20)
 
 ---
-
-## 🌐 Official Links
-
-- 🌍 Website: [https://dafchain.store](https://dafchain.store)
-- ✉️ Email: daf1@dafchain.store
-- 🐦 Twitter: https://x.com/daf1chain
-- 📢 Telegram Channel:  https://t.me/DAFChoin
-- 📬 Telegram Contact: https://t.me/Token_Officer
-- 💬 Community Discussions: [DAF1Choin Group](https://t.me/DAF1Choin)
-// [Add contract code or link to Token.sol here]
-https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012
-he ---
-https://github.com/dafallh85/daf-chain
 
 ## ⚙️ Smart Contract
 
