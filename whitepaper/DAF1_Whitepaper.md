@@ -12,8 +12,8 @@ Redefining the meaning of money with instant global transfers, real-world utilit
 - **Blockchain:** BNB Smart Chain (BEP-20)  
 - **Total Supply:** 100,000,000,000,000 DAF1 (100 Trillion)  
 - **Official Launch Date:** March 9, 2025  
-- **Website:** [https://dafchain.store](https://dafchain.store)  
-- **Token Contract:** [BscScan DAF1](https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012)  
+ 
+- **Token Contract:** [BscScan DAF1 token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012)  
 
 ---
 
@@ -65,17 +65,6 @@ The full whitepaper is available here: [DAF1_WHITEPAPER.md](DAF1_WHITEPAPER.md)
 - Eng. Mohammed Khalaf – Smart Contracts & Deep Learning Specialist  
 
 ---
-
-## 📢 Official Contacts
-
-- **Website:** [https://dafchain.store](https://dafchain.store)  
-- **Email:** daf1@dafchain.store  
-- **Twitter (X):** [@daf1chain](https://x.com/daf1chain)  
-- **Telegram Channel:** [DAFChoin](https://t.me/DAFChoin)  
-- **Telegram Contact Officer:** [https://t.me/Token_Officer](https://t.me/Token_Officer)  
-- **Telegram Community Discussions:** [DAF1Choin](https://t.me/DAF1Choin)  
-- **GitHub Repository:** [https://github.com/dafallh85/daf-chain](https://github.com/dafallh85/daf-chain)  
-- **Token Contract on BscScan:** [https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012](https://bscscan.com/token/0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012)  
 
 ---
 
