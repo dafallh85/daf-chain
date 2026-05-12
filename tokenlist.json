@@ -1,0 +1,21 @@
+{
+  "name": "DAF Ecosystem",
+  "logoURI": "https://raw.githubusercontent.com/dafallh85/daf-chain/main/logo.png",
+  "keywords": ["defi", "gaming"],
+  "timestamp": "2026-05-12T00:00:00+00:00",
+  "tokens": [
+    {
+      "chainId": 56,
+      "address": "0x0C9a6b4Bd24d69812B8f3A71a56DA686C9110012",
+      "name": "daf chain",
+      "symbol": "DAF1",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/dafallh85/daf-chain/main/logo.png"
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
